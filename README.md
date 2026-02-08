@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h2> About Me:</h2>
 
-<br><br>I am currently pursuing a Master of Computer Applications (MCA) with a Bachelor’s background in Computer Applications. I possess a strong foundation in software and application development, with experience in front-end technologies and programming fundamentals. My technical skill set includes working with Java, HTML/CSS, and Python, along with practical exposure to tools such as Postman for API testing, Power BI for data visualization.<br>I am continuously enhancing my knowledge in web development, information systems, cybersecurity, and data analytics. With a structured approach to learning and problem-solving, I am motivated to contribute to technology-driven initiatives and deliver reliable, efficient, and user-focused digital solutions.
+<br><br>I am currently pursuing my Master of Computer Applications (MCA) with a Bachelor’s background in Computer Applications. I possess a strong foundation in software and application development, with experience in front-end technologies and programming fundamentals. My technical skill set includes working with Java, HTML/CSS, and Python, along with practical exposure to tools such as Postman for API testing, Power BI for data visualization.<br>I am continuously enhancing my knowledge in web development, information systems, cybersecurity, and data analytics. With a structured approach to learning and problem-solving, I am motivated to contribute to technology-driven initiatives and deliver reliable, efficient, and user-focused digital solutions.
 
 
 ## 🌐 Socials:
